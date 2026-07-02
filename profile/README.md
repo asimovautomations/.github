@@ -120,9 +120,9 @@ Essa CLI foi criada para permitir que agentes de IA locais trabalhem melhor com 
 Na prática, o `n8n-agent` conecta três pontas:
 
 ```
-    ┌────────────────────┐        ┌──────────────────────┐        ┌────────────────────────┐
-    │   Workflow no n8n   │  <──>  │  Documentação (GitHub) │  <──>  │  Trabalho local + IA    │
-    └────────────────────┘        └──────────────────────┘        └────────────────────────┘
+    ┌────────────────────┐        ┌────────────────────────┐        ┌────────────────────────┐
+    │   Workflow no n8n  │  <──>  │  Documentação (GitHub) │  <──>  │  Trabalho local + IA   │
+    └────────────────────┘        └────────────────────────┘        └────────────────────────┘
 ```
 
 Isso permite que agentes de IA ajudem de verdade na manutenção das automações, sem depender de copiar e colar JSONs enormes manualmente.
